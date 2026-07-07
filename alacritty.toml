@@ -2,29 +2,29 @@
 opacity = 0.85
 blur = true
 #dynamic_resize = true
- 
+
 [window.dimensions]
 columns = 240
 lines = 60
- 
+
 [window.padding]
 x = 10
 y = 10
- 
- 
+
+
 [font]
-size = 18.0
- 
+size = 15.0
+
 [font.normal]
-family = "Terminus"
+family = "FiraCode Nerd Font"
 style = "Regular"
- 
+
 [font.bold]
-family = "Terminus"
+family = "FiraCode Nerd Font"
 style = "Bold"
- 
+
 [font.italic]
-family = "Terminus"
+family = "FiraCode Nerd Font"
 style = "Regular"
 
 [colors.primary]
