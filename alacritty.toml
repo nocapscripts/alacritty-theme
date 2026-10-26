@@ -2,6 +2,7 @@
 opacity = 0.85
 blur = true
 #dynamic_resize = true
+class = { instance = "Alacritty", general = "Alacritty" }
 
 [window.dimensions]
 columns = 240
